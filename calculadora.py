@@ -6,7 +6,7 @@ def somar(a, b):
 
 def main():
     """Função principal do programa."""
-    print("Bem-vindo à Calculadora em Python!")
+    print("Bem-vindo à Calculadora em Python! Vamos somar dois números.")
 
     num1 = float(input("Digite o primeiro número: "))
     num2 = float(input("Digite o segundo número: "))
