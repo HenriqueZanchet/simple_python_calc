@@ -18,6 +18,12 @@ def main():
     
     resultado = somar3(num1, num2, num3)
     print(f"A soma de {num1}, {num2} e {num3} é: {resultado}")
+    
+    print("Agora vamos subtrair dois números.")
+    num4 = float(input("Digite o primeiro número: "))
+    num5 = float(input("Digite o segundo número: "))
+    resultado = subtrair(num4, num5)
+    print(f"A subtração de {num4} e {num5} é: {resultado}")
 
 if __name__ == "__main__":
     main()
