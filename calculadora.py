@@ -1,4 +1,8 @@
 # calculadora.py
+def subtrair(a, b):
+    """Retorna a subtração de dois números."""
+    return a - b
+
 
 def somar3(a, b, c):
     """Retorna a soma de dois números."""
