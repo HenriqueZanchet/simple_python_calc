@@ -25,9 +25,7 @@ def main():
     resultado = subtrair(num4, num5)
     print(f"A subtração de {num4} e {num5} é: {resultado}")
 
-    print("vamos subtrair agora")
-    numA = float(input("digite o primeiro numero para subtrair"))
-    numB = float(input("digite o segundo numero para subtrair"))
+    print("Fim da aplicação.")
 
 if __name__ == "__main__":
     main()
